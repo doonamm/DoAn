@@ -1,0 +1,9 @@
+export const ROLE = {
+    NONE: 'NONE',
+    MANAGER: 'MANAGER',
+    PRODUCER: 'PRODUCER',
+    INSPECTOR: 'INSPECTOR',
+    PACKER: 'PACKER',
+    SUPPLIER: 'SUPPLIER',
+    RETAILER: 'RETAILER'
+}
